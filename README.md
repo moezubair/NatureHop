@@ -19,6 +19,8 @@ Mobile VR:
 ![4](https://image.ibb.co/m23hvd/Screenshot_20180513_231418_1.png) 
 ![5](https://image.ibb.co/ie37BJ/Screenshot_20180513_235953.png) 
 
+(drop me a message if you want the .apk file!)
+
 Unity PC Testing:
 
 ![3](https://image.ibb.co/kv2TJy/Screen_Shot_2018_05_13_at_22_20_31.png)
