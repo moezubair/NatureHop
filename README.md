@@ -16,19 +16,22 @@ Mobile VR:
 
 ![1](https://image.ibb.co/m23hvd/Screenshot_20180513_231418_1.png)
 ![2](https://image.ibb.co/mztt1J/Screenshot_20180513_231359.png)
-![3](https://image.ibb.co/gOR5yy/Screenshot_20180513_235906.png)
 ![4](https://image.ibb.co/m23hvd/Screenshot_20180513_231418_1.png) 
 ![5](https://image.ibb.co/ie37BJ/Screenshot_20180513_235953.png) 
 ![6](https://image.ibb.co/bRSdJy/Screenshot_20180513_235930.png) 
 
 Unity PC Testing:
 
+![3](https://image.ibb.co/kv2TJy/Screen_Shot_2018_05_13_at_22_20_31.png)
+
+![3](https://image.ibb.co/fCZsdy/Screen_Shot_2018_05_14_at_00_21_01.png)
+
 ![GIF HERE](https://image.ibb.co/dqxsBJ/ezgif_com_video_to_gif_1.gif)
 (Give it a moment to load, excuse the frame rate!) 🎬
 
 If you can't see the gif - use this link 👉 https://www.dropbox.com/s/oev2x2s5tigfd19/PCg9KWb3i2.mp4?dl=0
 
-Check out my twitter [HERREEEE](http://www.twitter.com/erhannah) or my website hannahblair.co.uk to connect with me! 🐙
+Check out my twitter [here](http://www.twitter.com/erhannah) or my website hannahblair.co.uk to connect with me! 🐙
 
 It's still a little shabby, because I'm still learning. Not an expert (YET) This was super fun to build, though, and I learned a lot. 
 
