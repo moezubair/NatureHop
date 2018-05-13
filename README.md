@@ -23,7 +23,7 @@ Mobile VR:
 
 Unity PC Testing:
 
-![Alt text](https://image.ibb.co/dqxsBJ/ezgif_com_video_to_gif_1.gif) 
+![GIF HERE](https://image.ibb.co/dqxsBJ/ezgif_com_video_to_gif_1.gif) 
 (Give it a moment to load, excuse the frame rate!) 🎬
 
 Check out my twitter [HERREEEE](http://www.twitter.com/erhannah) or my website hannahblair.co.uk to connect with me! 🐙
