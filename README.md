@@ -32,7 +32,7 @@ If you can't see the gif - use this link 👉 https://www.dropbox.com/s/oev2x2s5
 
 Check out my twitter [here](http://www.twitter.com/erhannah) or my website hannahblair.co.uk to connect with me! 🐙
 
-It's still a little shabby, because I'm still learning. Not an expert (YET) This was super fun to build, though, and I learned a lot. 
+It's still a little shabby, because I'm still learning. Not an expert (YET). This was super fun to build, though, and I learned a lot. 😁
 
 Feedback is always appreciated 👏
 
