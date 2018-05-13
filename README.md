@@ -14,11 +14,10 @@ Just keep hoppin', just keep hopping... 🐰
 
 Mobile VR: 
 
-![1](https://image.ibb.co/m23hvd/Screenshot_20180513_231418_1.png)
+![6](https://image.ibb.co/bRSdJy/Screenshot_20180513_235930.png) 
 ![2](https://image.ibb.co/mztt1J/Screenshot_20180513_231359.png)
 ![4](https://image.ibb.co/m23hvd/Screenshot_20180513_231418_1.png) 
 ![5](https://image.ibb.co/ie37BJ/Screenshot_20180513_235953.png) 
-![6](https://image.ibb.co/bRSdJy/Screenshot_20180513_235930.png) 
 
 Unity PC Testing:
 
